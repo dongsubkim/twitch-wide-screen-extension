@@ -1,1 +1,1 @@
-# twitchWideScreenExtension
+# twitch-wide-screen-extension
