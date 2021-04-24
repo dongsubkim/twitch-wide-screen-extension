@@ -1,0 +1,6 @@
+{
+    "name": "Twitch Wide Screen Extension",
+    "description": "Support features for wide screen users of twitch.tv",
+    "version": "0.1",
+    "manifest_version": 3
+}
